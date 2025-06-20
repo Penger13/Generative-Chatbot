@@ -66,11 +66,11 @@ In addition to the video presentation, your group should produce a write-up (in 
     1. Remove non-ASCII characters
     1. Save Question-Answer pairs only (use spaCy / NLTK?)
     1. Write to dataset_cleansed_«size».csv (or use to_pickle?)
-1. Encoder-decoder LSTM implementation (PyTorch) (Teng & Nathan)
+1. Encoder-decoder LSTM implementation (PyTorch) (Josh & Nathan)
     1. Load the Pickle file
     1. Training
     1. Save / load trained model - Pickle
-1. Incorporate attention (Teng & Nathan)
+1. Incorporate attention (Josh & Nathan)
     1. Luong or Bahdanau
 1. Model evaluation (Matt / All)
     1. Accuracy / BLEU score
