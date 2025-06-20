@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/*
+data/*
+data2/*
+data_backup/*
+dialogues_ds_model/*
+dialogues_ds_model_small/*
+dialogues_qa_model_small/*
+dialogues_t5_qa_model/*
+dialogues_t5_qa_model_small/*
+dialogues_t5_qa_model_small_save/*
+dialogues_seq2seq_model_small/*
+ubuntu_dialogue_qa_model/*
+models/*
+test_code/*
